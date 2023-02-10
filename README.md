@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hassaanalich296
-- 👀 I’m interested in financial markets, working out and travelling
-- 🌱 I’m currently working as a DevOps Software Engineer
-- 💞️ I’m looking to collaborate on anything stock market related
+- 👀 I’m interested in financial markets, Product/Program Management and travelling
+- 🌱 I’m currently looking for a Summer 2023 Internship in TPM or related roles
+- 💞️ I’m open to collaborate on any projects related to AI, stock market & cars
 - 📫 Reach me at ha3chaud@uwaterloo.ca
 
 <!---
